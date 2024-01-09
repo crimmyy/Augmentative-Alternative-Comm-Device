@@ -1,1 +1,7 @@
 # Augmentative-Alternative-Comm-Device
+
+Our group, Team Hickories, of three worked with a client from the organization CLASS (Community Living and Support Services) in order to make an assistive device that was uniquely tailored to them and their needs. This project spanned about two months and took many different iterations and ideas to reach where it ended up. Placing our respective abilities to use, I was in charge of coding. We had an initial interview consultation with our client Maggie, a second interview follow up during out ideation phase, a prototype critique and a final critique - all of which helped us flesh out what we were making and how we were making it. For this project, Team Hickories made an Augmentative & Alternative Communication Device. 
+
+The function of this device is relatively simple. The polygonal transmitter box has one button on each side, and each button transmits a different message to the receiver box. The message that each button sends is indicated by a laser etched message printed on each respective side. The receiver box receives the signal and displays the message on an E-Ink display, also lighting up a light strip on top to green to indicate a new message. When the person reading the message has read it, they click a button on the top and the message and light strip clears.
+
+Documentation Website: https://sites.google.com/andrew.cmu.edu/60-223-f23/final-project-assistive-device-for-client-with-disability/final-documentation/augmentative-alternative-communication-device-by-the-hickories 
